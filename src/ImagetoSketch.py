@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def img2sketch(photo):
+def ImagetoSketch(photo):
     # specify the path to image (Loading image image)
     # img = cv2.imread(r'C:\Users\neloy\OneDrive\GitHub\Image_to_sketch\src\images\demo_2.jpg')
     img = cv2.imread(photo)
@@ -63,4 +63,4 @@ def img2sketch(photo):
     plt.show()
 
 
-img2sketch(r'C:\Users\neloy\OneDrive\GitHub\Image_to_sketch\src\images\demo_2.png')
+#ImagetoSketch(r'C:\Users\neloy\OneDrive\GitHub\Image_to_sketch\src\images\demo_2.png')

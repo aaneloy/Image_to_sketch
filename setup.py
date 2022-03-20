@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name='img2sketch',
-    version='0.1.0',
+    name='ImagetoSketch',
+    version='0.1.1',
     author='Asif Ahmed Neloy',
     author_email='neloyn@myumanitoba.ca',
     description='Python open-source library to convert color or B&W image to pencil sketch',
@@ -11,7 +11,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/aaneloy/Image_to_sketch',
     keywords='scaler',
-    py_module=["image_to_sketch"],
+    py_module=["ImagetoSketch"],
     package_dir={'': 'src'},
     packages=setuptools.find_packages(),
     classifiers=[
