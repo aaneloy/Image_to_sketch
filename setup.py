@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='ImagetoSketch',
-    version='0.1.1',
+    version='0.1.3',
     author='Asif Ahmed Neloy',
     author_email='neloyn@myumanitoba.ca',
     description='Python open-source library to convert color or B&W image to pencil sketch',

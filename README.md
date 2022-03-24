@@ -1,4 +1,4 @@
-# Image_to_sketch
+# Imagetosketch
 ![Author](https://img.shields.io/badge/author-aaneloy-blue)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/aaneloy/Image_to_sketch/main/LICENSE.txt)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aaneloy/Image_to_sketch)
@@ -10,7 +10,7 @@ Python open-source library to convert color/ B&amp;W image to pencil sketch
 
 ## Installation:
 ```
-pip install ImagetoSketch
+pip install ImagetoSketch==0.1.3
 
 ```
 
@@ -19,7 +19,7 @@ pip install ImagetoSketch
 ```python
 
 #installation
-!pip install ImagetoSketch
+!pip install ImagetoSketch==0.1.3
 
 #import
 from ImagetoSketch import *

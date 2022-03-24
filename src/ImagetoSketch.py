@@ -64,3 +64,6 @@ def ImagetoSketch(photo):
 
 
 #ImagetoSketch(r'C:\Users\neloy\OneDrive\GitHub\Image_to_sketch\src\images\demo_2.png')
+# python setup.py sdist bdist_wheel
+# pip install -e .
+# twine upload dist/*
